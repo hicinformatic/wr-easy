@@ -1,0 +1,12 @@
+shortcut,property,values,xy
+bd-st,border-style,none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit,
+bd-wt,border-width,medium|thin|thick|length|initial|inherit,
+bd-bt-st,border-bottom-style,none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit,
+bd-bt-wt,border-bottom-width,medium|thin|thick|length|initial|inherit,
+bd-lf-st,border-left-style,none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit,
+bd-lf-wt,border-left-width,medium|thin|thick|length|initial|inherit,
+bd-rd,border-radius,length|initial|inherit,
+bd-rg-st,border-right-style,none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit,
+bd-rg-wt,border-right-width,medium|thin|thick|length|initial|inherit,
+bd-tp-st,border-top-style,none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit,
+bd-tp-wt,border-top-width,medium|thin|thick|length|initial|inherit,

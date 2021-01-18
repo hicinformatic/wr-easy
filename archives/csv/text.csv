@@ -1,0 +1,10 @@
+shortcut,property,values,xy
+ft,float,none|left|right|initial|inherit
+ft-si,font-size,medium|xx-small|x-small|small|large|x-large|xx-large|smaller|larger|length|initial|inherit
+ft-wh,font-weight,normal|bold|bolder|lighter|100|200|300|400|500|600|700|800|900|initial|inherit
+tx-al,text-align,left|right|center|justify|initial|inherit,
+tx-dc,text-decoration,none|underline|overline|line-through|initial|inherit,
+tx-dc-li,text-decoration-line,none|underline|overline|line-through|initial|inherit,
+tx-dc-st,text-decoration-style,solid|double|dotted|dashed|wavy|initial|inherit,
+tx-of,text-overflow,clip|ellipsis|string|initial|inherit,
+wh-sp,white-space,normal|nowrap|pre|pre-line|pre-wrap|initial|inherit

@@ -1,0 +1,2554 @@
+{
+    "align-content": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_align-content.asp",
+        "syntax": "align-content: stretch|center|flex-start|flex-end|space-between|space-around|initial|inherit;",
+        "property_values": [
+            "stretch",
+            "center",
+            "flex-start",
+            "flex-end",
+            "space-between",
+            "space-around",
+            "initial",
+            "inherit"
+        ]
+    },
+    "align-items": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_align-items.asp",
+        "syntax": "align-items: stretch|center|flex-start|flex-end|baseline|initial|inherit;",
+        "property_values": [
+            "stretch",
+            "center",
+            "flex-start",
+            "flex-end",
+            "baseline",
+            "initial",
+            "inherit"
+        ]
+    },
+    "align-self": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_align-self.asp",
+        "syntax": "align-self: auto|stretch|center|flex-start|flex-end|baseline|initial|inherit;",
+        "property_values": [
+            "auto",
+            "stretch",
+            "center",
+            "flex-start",
+            "flex-end",
+            "baseline",
+            "initial",
+            "inherit"
+        ]
+    },
+    "all": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_all.asp",
+        "syntax": "all: initial|inherit|unset;",
+        "property_values": [
+            "initial",
+            "inherit",
+            "unset"
+        ]
+    },
+    "animation": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation.asp",
+        "syntax": "animation: name duration timing-function delay iteration-count direction fill-mode play-state;",
+        "property_values": [
+            "animation-name",
+            "animation-duration",
+            "animation-timing-function",
+            "animation-delay",
+            "animation-iteration-count",
+            "animation-direction",
+            "animation-fill-mode",
+            "animation-play-state",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-delay": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-delay.asp",
+        "syntax": "animation-delay: time|initial|inherit;",
+        "property_values": [
+            "time",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-direction": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-direction.asp",
+        "syntax": "animation-direction: normal|reverse|alternate|alternate-reverse|initial|inherit;",
+        "property_values": [
+            "normal",
+            "reverse",
+            "alternate",
+            "alternate-reverse",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-duration": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-duration.asp",
+        "syntax": "animation-duration: time|initial|inherit;",
+        "property_values": [
+            "time",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-fill-mode": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-fill-mode.asp",
+        "syntax": "animation-fill-mode: none|forwards|backwards|both|initial|inherit;",
+        "property_values": [
+            "none",
+            "forwards",
+            "backwards",
+            "both",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-iteration-count": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.asp",
+        "syntax": "animation-iteration-count: number|infinite|initial|inherit;",
+        "property_values": [
+            "number",
+            "infinite",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-name": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-name.asp",
+        "syntax": "animation-name: keyframename|none|initial|inherit;",
+        "property_values": [
+            "keyframename",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-play-state": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-play-state.asp",
+        "syntax": "animation-play-state: paused|running|initial|inherit;",
+        "property_values": [
+            "paused",
+            "running",
+            "initial",
+            "inherit"
+        ]
+    },
+    "animation-timing-function": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-timing-function.asp",
+        "syntax": "animation-timing-function: linear|ease|ease-in|ease-out|ease-in-out|step-start|step-end|steps(int,start|end)|cubic-bezier(n,n,n,n)|initial|inherit;",
+        "property_values": [
+            "linear",
+            "ease",
+            "ease-in",
+            "ease-out",
+            "ease-in-out",
+            "step-start",
+            "step-end",
+            "steps(int,start|end)",
+            "cubic-bezier(n,n,n,n)",
+            "initial",
+            "inherit"
+        ]
+    },
+    "backface-visibility": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp",
+        "syntax": "backface-visibility: visible|hidden|initial|inherit;",
+        "property_values": [
+            "visible",
+            "hidden",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_background.asp",
+        "syntax": "background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit;",
+        "property_values": [
+            "background-color",
+            "background-image",
+            "background-position",
+            "background-size",
+            "background-repeat",
+            "background-origin",
+            "background-clip",
+            "background-attachment",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-attachment": {
+        "href": "https://www.w3schools.com/cssref/pr_background-attachment.asp",
+        "syntax": "background-attachment: scroll|fixed|local|initial|inherit;",
+        "property_values": [
+            "scroll",
+            "fixed",
+            "local",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-blend-mode": {
+        "href": "https://www.w3schools.com/cssref/pr_background-blend-mode.asp",
+        "syntax": "background-blend-mode: normal|multiply|screen|overlay|darken|lighten|color-dodge|saturation|color|luminosity;",
+        "property_values": [
+            "normal",
+            "multiply",
+            "screen",
+            "overlay",
+            "darken",
+            "lighten",
+            "color-dodge",
+            "saturation",
+            "color",
+            "luminosity"
+        ]
+    },
+    "background-clip": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_background-clip.asp",
+        "syntax": "background-clip: border-box|padding-box|content-box|initial|inherit;",
+        "property_values": [
+            "border-box",
+            "padding-box",
+            "content-box",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-color": {
+        "href": "https://www.w3schools.com/cssref/pr_background-color.asp",
+        "syntax": "background-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-image": {
+        "href": "https://www.w3schools.com/cssref/pr_background-image.asp",
+        "syntax": "background-image: url|none|initial|inherit;",
+        "property_values": [
+            "url('URL')",
+            "none",
+            "linear-gradient()",
+            "radial-gradient()",
+            "repeating-linear-gradient()",
+            "repeating-radial-gradient()",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-origin": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_background-origin.asp",
+        "syntax": "background-origin: padding-box|border-box|content-box|initial|inherit;",
+        "property_values": [
+            "padding-box",
+            "border-box",
+            "content-box",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-position": {
+        "href": "https://www.w3schools.com/cssref/pr_background-position.asp",
+        "syntax": "background-position: value;",
+        "property_values": [
+            "left top",
+            "left center",
+            "left bottom",
+            "right top",
+            "right center",
+            "right bottom",
+            "center top",
+            "center center",
+            "center bottom",
+            "xpercent ypercent",
+            "xpos ypos",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-repeat": {
+        "href": "https://www.w3schools.com/cssref/pr_background-repeat.asp",
+        "syntax": "background-repeat: repeat|repeat-x|repeat-y|no-repeat|initial|inherit;",
+        "property_values": [
+            "repeat",
+            "repeat-x",
+            "repeat-y",
+            "no-repeat",
+            "space",
+            "round",
+            "initial",
+            "inherit"
+        ]
+    },
+    "background-size": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_background-size.asp",
+        "syntax": "background-size: auto|length|cover|contain|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percentage",
+            "cover",
+            "contain",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border": {
+        "href": "https://www.w3schools.com/cssref/pr_border.asp",
+        "syntax": "border: border-width border-style border-color|initial|inherit;",
+        "property_values": [
+            "border-width",
+            "border-style",
+            "border-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom": {
+        "href": "https://www.w3schools.com/cssref/pr_border-bottom.asp",
+        "syntax": "border-bottom: border-width border-style border-color|initial|inherit;",
+        "property_values": [
+            "border-bottom-width",
+            "border-bottom-style",
+            "border-bottom-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom-color": {
+        "href": "https://www.w3schools.com/cssref/pr_border-bottom_color.asp",
+        "syntax": "border-bottom-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom-left-radius": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-bottom-left-radius.asp",
+        "syntax": "border-bottom-left-radius: length|percent length|percent|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom-right-radius": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-bottom-right-radius.asp",
+        "syntax": "border-bottom-right-radius: length|percent length|percent|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom-style": {
+        "href": "https://www.w3schools.com/cssref/pr_border-bottom_style.asp",
+        "syntax": "border-bottom-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-bottom-width": {
+        "href": "https://www.w3schools.com/cssref/pr_border-bottom_width.asp",
+        "syntax": "border-bottom-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-collapse": {
+        "href": "https://www.w3schools.com/cssref/pr_border-collapse.asp",
+        "syntax": "border-collapse: separate|collapse|initial|inherit;",
+        "property_values": [
+            "separate",
+            "collapse",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-color": {
+        "href": "https://www.w3schools.com/cssref/pr_border-color.asp",
+        "syntax": "border-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image.asp",
+        "syntax": "border-image: source slice width outset repeat|initial|inherit;",
+        "property_values": [
+            "border-image-source",
+            "border-image-slice",
+            "border-image-width",
+            "border-image-outset",
+            "border-image-repeat",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image-outset": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image-outset.asp",
+        "syntax": "border-image-outset: length|number|initial|inherit;",
+        "property_values": [
+            "length",
+            "number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image-repeat": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image-repeat.asp",
+        "syntax": "border-image-repeat: stretch|repeat|round|initial|inherit;",
+        "property_values": [
+            "stretch",
+            "repeat",
+            "round",
+            "space",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image-slice": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image-slice.asp",
+        "syntax": "border-image-slice: number|percent|fill|initial|inherit;",
+        "property_values": [
+            "number",
+            "percent",
+            "fill",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image-source": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image-source.asp",
+        "syntax": "border-image-source: none|image|initial|inherit;",
+        "property_values": [
+            "none",
+            "image",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-image-width": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-image-width.asp",
+        "syntax": "border-image-width: number|percent|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "number",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-left": {
+        "href": "https://www.w3schools.com/cssref/pr_border-left.asp",
+        "syntax": "border-left: border-width border-style border-color|initial|inherit;",
+        "property_values": [
+            "border-left-width",
+            "border-left-style",
+            "border-left-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-left-color": {
+        "href": "https://www.w3schools.com/cssref/pr_border-left_color.asp",
+        "syntax": "border-left-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-left-style": {
+        "href": "https://www.w3schools.com/cssref/pr_border-left_style.asp",
+        "syntax": "border-left-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-left-width": {
+        "href": "https://www.w3schools.com/cssref/pr_border-left_width.asp",
+        "syntax": "border-left-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-radius": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-radius.asp",
+        "syntax": "border-radius: 1-4 length|percent / 1-4 length|percent|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-right": {
+        "href": "https://www.w3schools.com/cssref/pr_border-right.asp",
+        "syntax": "border-right: border-width border-style border-color|initial|inherit;",
+        "property_values": [
+            "border-right-width",
+            "border-right-style",
+            "border-right-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-right-color": {
+        "href": "https://www.w3schools.com/cssref/pr_border-right_color.asp",
+        "syntax": "border-right-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-right-style": {
+        "href": "https://www.w3schools.com/cssref/pr_border-right_style.asp",
+        "syntax": "border-right-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-right-width": {
+        "href": "https://www.w3schools.com/cssref/pr_border-right_width.asp",
+        "syntax": "border-right-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-spacing": {
+        "href": "https://www.w3schools.com/cssref/pr_border-spacing.asp",
+        "syntax": "border-spacing: length|initial|inherit;",
+        "property_values": [
+            "length length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-style": {
+        "href": "https://www.w3schools.com/cssref/pr_border-style.asp",
+        "syntax": "border-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top": {
+        "href": "https://www.w3schools.com/cssref/pr_border-top.asp",
+        "syntax": "border-top: border-width border-style border-color|initial|inherit;",
+        "property_values": [
+            "border-top-width",
+            "border-top-style",
+            "border-top-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top-color": {
+        "href": "https://www.w3schools.com/cssref/pr_border-top_color.asp",
+        "syntax": "border-top-color: color|transparent|initial|inherit;",
+        "property_values": [
+            "color",
+            "transparent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top-left-radius": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-top-left-radius.asp",
+        "syntax": "border-top-left-radius: length|percent length|percent|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top-right-radius": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_border-top-right-radius.asp",
+        "syntax": "border-top-right-radius: length|percent length|percent|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top-style": {
+        "href": "https://www.w3schools.com/cssref/pr_border-top_style.asp",
+        "syntax": "border-top-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-top-width": {
+        "href": "https://www.w3schools.com/cssref/pr_border-top_width.asp",
+        "syntax": "border-top-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "border-width": {
+        "href": "https://www.w3schools.com/cssref/pr_border-width.asp",
+        "syntax": "border-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "bottom": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_bottom.asp",
+        "syntax": "bottom: auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "box-decoration-break": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_box-decoration-break.asp",
+        "syntax": "box-decoration-break: slice|clone|initial|inherit|unset;",
+        "property_values": [
+            "slice",
+            "clone",
+            "initial",
+            "inherit"
+        ]
+    },
+    "box-shadow": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_box-shadow.asp",
+        "syntax": "box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;",
+        "property_values": [
+            "none",
+            "h-offset",
+            "v-offset",
+            "blur",
+            "spread",
+            "color",
+            "inset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "box-sizing": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_box-sizing.asp",
+        "syntax": "box-sizing: content-box|border-box|initial|inherit;",
+        "property_values": [
+            "content-box",
+            "border-box",
+            "initial",
+            "inherit"
+        ]
+    },
+    "break-after": {
+        "href": "https://www.w3schools.com/cssref/pr_break-after.asp",
+        "syntax": "break-after: auto|all|always|avoid|avoid-column|avoid-page|avoid-region|column|left|page|recto|region|right|verso|initial|inherit;",
+        "property_values": [
+            "auto",
+            "all",
+            "always",
+            "avoid",
+            "avoid-column",
+            "avoid-page",
+            "avoid-region",
+            "column",
+            "left",
+            "page",
+            "recto",
+            "region",
+            "right",
+            "verso",
+            "initial",
+            "inherit"
+        ]
+    },
+    "break-before": {
+        "href": "https://www.w3schools.com/cssref/pr_break-before.asp",
+        "syntax": "break-before: auto|all|always|avoid|avoid-column|avoid-page|avoid-region|column|left|page|recto|region|right|verso|initial|inherit;",
+        "property_values": [
+            "auto",
+            "all",
+            "always",
+            "avoid",
+            "avoid-column",
+            "avoid-page",
+            "avoid-region",
+            "column",
+            "left",
+            "page",
+            "recto",
+            "region",
+            "right",
+            "verso",
+            "initial",
+            "inherit"
+        ]
+    },
+    "break-inside": {
+        "href": "https://www.w3schools.com/cssref/pr_break-inside.asp",
+        "syntax": "break-inside: auto|all|always|avoid|avoid-column|avoid-page|avoid-region|column|left|page|recto|region|right|verso|initial|inherit;",
+        "property_values": [
+            "auto",
+            "avoid",
+            "avoid-column",
+            "avoid-page",
+            "avoid-region",
+            "initial",
+            "inherit"
+        ]
+    },
+    "caption-side": {
+        "href": "https://www.w3schools.com/cssref/pr_tab_caption-side.asp",
+        "syntax": "caption-side: top|bottom|initial|inherit;",
+        "property_values": [
+            "top",
+            "bottom",
+            "initial",
+            "inherit"
+        ]
+    },
+    "caret-color": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_caret-color.asp",
+        "syntax": "caret-color: auto|color;",
+        "property_values": [
+            "auto",
+            "color"
+        ]
+    },
+    "@charset": {
+        "href": "https://www.w3schools.com/cssref/pr_charset_rule.asp",
+        "syntax": "@charset \"charset\";",
+        "property_values": [
+            "charset"
+        ]
+    },
+    "clear": {
+        "href": "https://www.w3schools.com/cssref/pr_class_clear.asp",
+        "syntax": "clear: none|left|right|both|initial|inherit;",
+        "property_values": [
+            "none",
+            "left",
+            "right",
+            "both",
+            "initial",
+            "inherit"
+        ]
+    },
+    "clip": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_clip.asp",
+        "syntax": "clip: auto|shape|initial|inherit;",
+        "property_values": [
+            "auto",
+            "shape",
+            "initial",
+            "inherit"
+        ]
+    },
+    "color": {
+        "href": "https://www.w3schools.com/cssref/pr_text_color.asp",
+        "syntax": "color: color|initial|inherit;",
+        "property_values": [
+            "color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-count": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-count.asp",
+        "syntax": "column-count: number|auto|initial|inherit;",
+        "property_values": [
+            "number",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-fill": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-fill.asp",
+        "syntax": "column-fill: balance|auto|initial|inherit;",
+        "property_values": [
+            "balance",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-gap": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-gap.asp",
+        "syntax": "column-gap: length|normal|initial|inherit;",
+        "property_values": [
+            "length",
+            "normal",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-rule": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-rule.asp",
+        "syntax": "column-rule: column-rule-width column-rule-style column-rule-color|initial|inherit;",
+        "property_values": [
+            "column-rule-width",
+            "column-rule-style",
+            "column-rule-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-rule-color": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-rule-color.asp",
+        "syntax": "column-rule-color: color|initial|inherit;",
+        "property_values": [
+            "color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-rule-style": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-rule-style.asp",
+        "syntax": "column-rule-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-rule-width": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-rule-width.asp",
+        "syntax": "column-rule-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-span": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-span.asp",
+        "syntax": "column-span: none|all|initial|inherit;",
+        "property_values": [
+            "none",
+            "all",
+            "initial",
+            "inherit"
+        ]
+    },
+    "column-width": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_column-width.asp",
+        "syntax": "column-width: auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "columns": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_columns.asp",
+        "syntax": "columns: auto|column-width column-count|initial|inherit;",
+        "property_values": [
+            "auto",
+            "column-width",
+            "column-count",
+            "initial",
+            "inherit"
+        ]
+    },
+    "content": {
+        "href": "https://www.w3schools.com/cssref/pr_gen_content.asp",
+        "syntax": "content: normal|none|counter|attr|string|open-quote|close-quote|no-open-quote|no-close-quote|url|initial|inherit;",
+        "property_values": [
+            "normal",
+            "none",
+            "counter",
+            "attr(attribute)",
+            "string",
+            "open-quote",
+            "close-quote",
+            "no-open-quote",
+            "no-close-quote",
+            "url(url)",
+            "initial",
+            "inherit"
+        ]
+    },
+    "counter-increment": {
+        "href": "https://www.w3schools.com/cssref/pr_gen_counter-increment.asp",
+        "syntax": "counter-increment: none|id|initial|inherit;",
+        "property_values": [
+            "none",
+            "id number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "counter-reset": {
+        "href": "https://www.w3schools.com/cssref/pr_gen_counter-reset.asp",
+        "syntax": "counter-reset: none|name number|initial|inherit;",
+        "property_values": [
+            "none",
+            "id number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "cursor": {
+        "href": "https://www.w3schools.com/cssref/pr_class_cursor.asp",
+        "syntax": "cursor: value;",
+        "property_values": [
+            "alias",
+            "all-scroll",
+            "auto",
+            "cell",
+            "context-menu",
+            "col-resize",
+            "copy",
+            "crosshair",
+            "default",
+            "e-resize",
+            "ew-resize",
+            "grab",
+            "grabbing",
+            "help",
+            "move",
+            "n-resize",
+            "ne-resize",
+            "nesw-resize",
+            "ns-resize",
+            "nw-resize",
+            "nwse-resize",
+            "no-drop",
+            "none",
+            "not-allowed",
+            "pointer",
+            "progress",
+            "row-resize",
+            "s-resize",
+            "se-resize",
+            "sw-resize",
+            "text",
+            "URL",
+            "vertical-text",
+            "w-resize",
+            "wait",
+            "zoom-in",
+            "zoom-out",
+            "initial",
+            "inherit"
+        ]
+    },
+    "direction": {
+        "href": "https://www.w3schools.com/cssref/pr_text_direction.asp",
+        "syntax": "direction: ltr|rtl|initial|inherit;",
+        "property_values": [
+            "ltr",
+            "rtl",
+            "initial",
+            "inherit"
+        ]
+    },
+    "display": {
+        "href": "https://www.w3schools.com/cssref/pr_class_display.asp",
+        "syntax": "display: value;",
+        "property_values": [
+            "inline",
+            "block",
+            "contents",
+            "flex",
+            "grid",
+            "inline-block",
+            "inline-flex",
+            "inline-grid",
+            "inline-table",
+            "list-item",
+            "run-in",
+            "table",
+            "table-caption",
+            "table-column-group",
+            "table-header-group",
+            "table-footer-group",
+            "table-row-group",
+            "table-cell",
+            "table-column",
+            "table-row",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "empty-cells": {
+        "href": "https://www.w3schools.com/cssref/pr_tab_empty-cells.asp",
+        "syntax": "empty-cells: show|hide|initial|inherit;",
+        "property_values": [
+            "show",
+            "hide",
+            "initial",
+            "inherit"
+        ]
+    },
+    "filter": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_filter.asp",
+        "syntax": "filter: none | blur() | brightness() | contrast() | drop-shadow() | grayscale() | hue-rotate() | invert() | opacity() | saturate() | sepia() | url();"
+    },
+    "flex": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex.asp",
+        "syntax": "flex: flex-grow flex-shrink flex-basis|auto|initial|inherit;",
+        "property_values": [
+            "flex-grow",
+            "flex-shrink",
+            "flex-basis",
+            "auto",
+            "initial",
+            "none",
+            "inherit"
+        ]
+    },
+    "flex-basis": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-basis.asp",
+        "syntax": "flex-basis: number|auto|initial|inherit;",
+        "property_values": [
+            "number",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "flex-direction": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-direction.asp",
+        "syntax": "flex-direction: row|row-reverse|column|column-reverse|initial|inherit;",
+        "property_values": [
+            "row",
+            "row-reverse",
+            "column",
+            "column-reverse",
+            "initial",
+            "inherit"
+        ]
+    },
+    "flex-flow": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-flow.asp",
+        "syntax": "flex-flow: flex-direction flex-wrap|initial|inherit;",
+        "property_values": [
+            "flex-direction",
+            "flex-wrap",
+            "initial",
+            "inherit"
+        ]
+    },
+    "flex-grow": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-grow.asp",
+        "syntax": "flex-grow: number|initial|inherit;",
+        "property_values": [
+            "number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "flex-shrink": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-shrink.asp",
+        "syntax": "flex-shrink: number|initial|inherit;",
+        "property_values": [
+            "number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "flex-wrap": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp",
+        "syntax": "flex-wrap: nowrap|wrap|wrap-reverse|initial|inherit;",
+        "property_values": [
+            "nowrap",
+            "wrap",
+            "wrap-reverse",
+            "initial",
+            "inherit"
+        ]
+    },
+    "float": {
+        "href": "https://www.w3schools.com/cssref/pr_class_float.asp",
+        "syntax": "float: none|left|right|initial|inherit;",
+        "property_values": [
+            "none",
+            "left",
+            "right",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font": {
+        "href": "https://www.w3schools.com/cssref/pr_font_font.asp",
+        "syntax": "font: font-style font-variant font-weight font-size/line-height font-family|caption|icon|menu|message-box|small-caption|status-bar|initial|inherit;",
+        "property_values": [
+            "font-style",
+            "font-variant",
+            "font-weight",
+            "font-size/line-height",
+            "font-family",
+            "caption",
+            "icon",
+            "menu",
+            "message-box",
+            "small-caption",
+            "status-bar",
+            "initial",
+            "inherit"
+        ]
+    },
+    "@font-face": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp",
+        "syntax": "@font-face {  \u00a0 font-properties }"
+    },
+    "font-family": {
+        "href": "https://www.w3schools.com/cssref/pr_font_font-family.asp",
+        "syntax": "font-family: family-name|generic-family|initial|inherit;",
+        "property_values": [
+            "family-name",
+            "generic-family",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-feature-settings": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-feature-settings.asp",
+        "syntax": "font-feature-settings: normal|feature-value;",
+        "property_values": [
+            "normal",
+            "feature-value"
+        ]
+    },
+    "font-kerning": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-kerning.asp",
+        "syntax": "font-kerning: auto|normal|none;",
+        "property_values": [
+            "auto",
+            "normal",
+            "none"
+        ]
+    },
+    "font-size": {
+        "href": "https://www.w3schools.com/cssref/pr_font_font-size.asp",
+        "syntax": "font-size:medium|xx-small|x-small|small|large|x-large|xx-large|smaller|larger|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "xx-small",
+            "x-small",
+            "small",
+            "large",
+            "x-large",
+            "xx-large",
+            "smaller",
+            "larger",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-size-adjust": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-size-adjust.asp",
+        "syntax": "font-size-adjust: number|none|initial|inherit;",
+        "property_values": [
+            "number",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-stretch": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-stretch.asp",
+        "syntax": "font-stretch: ultra-condensed|extra-condensed|condensed|semi-condensed|normal|semi-expanded|expanded|extra-expanded|ultra-expanded|initial|inherit;",
+        "property_values": [
+            "ultra-condensed",
+            "extra-condensed",
+            "condensed",
+            "semi-condensed",
+            "normal",
+            "semi-expanded",
+            "expanded",
+            "extra-expanded",
+            "ultra-expanded",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-style": {
+        "href": "https://www.w3schools.com/cssref/pr_font_font-style.asp",
+        "syntax": "font-style: normal|italic|oblique|initial|inherit;",
+        "property_values": [
+            "normal",
+            "italic",
+            "oblique",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-variant": {
+        "href": "https://www.w3schools.com/cssref/pr_font_font-variant.asp",
+        "syntax": "font-variant: normal|small-caps|initial|inherit;",
+        "property_values": [
+            "normal",
+            "small-caps",
+            "initial",
+            "inherit"
+        ]
+    },
+    "font-variant-caps": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_font-variant-caps.asp",
+        "syntax": "font-variant-caps: normal|small-caps|all-small-caps|petite-caps|all-petite-caps|unicase|titling-caps|initial|inherit|unset;",
+        "property_values": [
+            "normal",
+            "small-caps",
+            "all-small-caps",
+            "petite-caps",
+            "all-petite-caps",
+            "unicase",
+            "titling-caps",
+            "initial",
+            "inherit",
+            "unset"
+        ]
+    },
+    "font-weight": {
+        "href": "https://www.w3schools.com/cssref/pr_font_weight.asp",
+        "syntax": "font-weight: normal|bold|bolder|lighter|number|initial|inherit;",
+        "property_values": [
+            "normal",
+            "bold",
+            "bolder",
+            "lighter",
+            "100",
+            "200",
+            "300",
+            "400",
+            "500",
+            "600",
+            "700",
+            "800",
+            "900",
+            "initial",
+            "inherit"
+        ]
+    },
+    "grid": {
+        "href": "https://www.w3schools.com/cssref//pr_grid.asp",
+        "syntax": "grid: none|grid-template-rows /   grid-template-columns|grid-template-areas|grid-template-rows   / grid-auto-flow grid-auto-columns|grid-auto-flow grid-auto-rows / grid-template-columns|initial|inherit;",
+        "property_values": [
+            "none",
+            "grid-template-rows / grid-template-columns",
+            "grid-template-areas",
+            "grid-template-rows / grid-auto-columns",
+            "grid-auto-rows / grid-template-columns",
+            "grid-template-rows / grid-auto-flow grid-auto-columns",
+            "grid-auto-flow grid-auto-rows / grid-template-columns",
+            "initial",
+            "inherit"
+        ]
+    },
+    "grid-area": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-area.asp",
+        "syntax": "grid-area: grid-row-start / grid-column-start / grid-row-end /   grid-column-end | itemname;",
+        "property_values": [
+            "grid-row-start",
+            "grid-column-start",
+            "grid-row-end",
+            "grid-column-end",
+            "itemname"
+        ]
+    },
+    "grid-auto-columns": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-auto-columns.asp",
+        "syntax": "grid-auto-columns: auto|max-content|min-content|length;",
+        "property_values": [
+            "auto",
+            "fit-content()",
+            "max-content",
+            "min-content",
+            "minmax(min.max)",
+            "length",
+            "percent"
+        ]
+    },
+    "grid-auto-flow": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-auto-flow.asp",
+        "syntax": "grid-auto-flow:   row|column|dense|row dense|column dense;",
+        "property_values": [
+            "row",
+            "column",
+            "dense",
+            "row dense",
+            "column dense"
+        ]
+    },
+    "grid-auto-rows": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-auto-rows.asp",
+        "syntax": "grid-auto-rows: auto|max-content|min-content|length;",
+        "property_values": [
+            "auto",
+            "max-content",
+            "min-content",
+            "length"
+        ]
+    },
+    "grid-column": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-column.asp",
+        "syntax": "grid-column: grid-column-start /   grid-column-end;",
+        "property_values": [
+            "grid-column-start",
+            "grid-column-end"
+        ]
+    },
+    "grid-column-end": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-column-end.asp",
+        "syntax": "grid-column-end:   auto|span n|column-line;",
+        "property_values": [
+            "auto",
+            "span n",
+            "column-line"
+        ]
+    },
+    "grid-column-gap": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-column-gap.asp",
+        "syntax": "grid-column-gap: length;",
+        "property_values": [
+            "length"
+        ]
+    },
+    "grid-column-start": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-column-start.asp",
+        "syntax": "grid-column-start: auto|span n|column-line;",
+        "property_values": [
+            "auto",
+            "span n",
+            "column-line"
+        ]
+    },
+    "grid-gap": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-gap.asp",
+        "syntax": "grid-gap: grid-row-gap grid-column-gap;",
+        "property_values": [
+            "grid-row-gap",
+            "grid-column-gap"
+        ]
+    },
+    "grid-row": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-row.asp",
+        "syntax": "grid-row: grid-row-start /   grid-row-end;",
+        "property_values": [
+            "grid-row-start",
+            "grid-row-end"
+        ]
+    },
+    "grid-row-end": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-row-end.asp",
+        "syntax": "grid-row-end:   auto|row-line|span n;",
+        "property_values": [
+            "auto",
+            "span n",
+            "column-line"
+        ]
+    },
+    "grid-row-gap": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-row-gap.asp",
+        "syntax": "grid-row-gap: length;",
+        "property_values": [
+            "length"
+        ]
+    },
+    "grid-row-start": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-row-start.asp",
+        "syntax": "grid-row-start: auto|row-line;",
+        "property_values": [
+            "auto",
+            "row-line"
+        ]
+    },
+    "grid-template": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-template.asp",
+        "syntax": "grid-template: none|grid-template-rows /   grid-template-columns|grid-template-areas|initial|inherit;",
+        "property_values": [
+            "none",
+            "grid-template rows / grid-template-columns",
+            "grid-template-areas",
+            "initial",
+            "inherit"
+        ]
+    },
+    "grid-template-areas": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-template-areas.asp",
+        "syntax": "grid-template-areas: none|itemnames;",
+        "property_values": [
+            "none",
+            "itemnames"
+        ]
+    },
+    "grid-template-columns": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-template-columns.asp",
+        "syntax": "grid-template-columns: none|auto|max-content|min-content|length|initial|inherit;",
+        "property_values": [
+            "none",
+            "auto",
+            "max-content",
+            "min-content",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "grid-template-rows": {
+        "href": "https://www.w3schools.com/cssref/pr_grid-template-rows.asp",
+        "syntax": "grid-template-rows: none|auto|max-content|min-content|length|initial|inherit;",
+        "property_values": [
+            "none",
+            "auto",
+            "max-content",
+            "min-content",
+            "length"
+        ]
+    },
+    "hanging-punctuation": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_hanging-punctuation.asp",
+        "syntax": "hanging-punctuation: none|first|last|allow-end|force-end|initial|inherit;",
+        "property_values": [
+            "none",
+            "first",
+            "last",
+            "allow-end",
+            "force-end",
+            "initial",
+            "inherit"
+        ]
+    },
+    "height": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_height.asp",
+        "syntax": "height: auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "hyphens": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_hyphens.asp",
+        "syntax": "hyphens: none|manual|auto|initial|inherit;",
+        "property_values": [
+            "none",
+            "manual",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "@import": {
+        "href": "https://www.w3schools.com/cssref/pr_import_rule.asp",
+        "syntax": "@import url|string list-of-mediaqueries;",
+        "property_values": [
+            "url|string",
+            "list-of-mediaqueries"
+        ]
+    },
+    "isolation": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_isolation.asp",
+        "syntax": "isolation: auto|isolate|initial|inherit;",
+        "property_values": [
+            "auto",
+            "isolate",
+            "initial",
+            "inherit"
+        ]
+    },
+    "justify-content": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_justify-content.asp",
+        "syntax": "justify-content: flex-start|flex-end|center|space-between|space-around|initial|inherit;",
+        "property_values": [
+            "flex-start",
+            "flex-end",
+            "center",
+            "space-between",
+            "space-around",
+            "initial",
+            "inherit"
+        ]
+    },
+    "@keyframes": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp",
+        "syntax": "@keyframes animationname {keyframes-selector {css-styles;}}",
+        "property_values": [
+            "animationname",
+            "keyframes-selector",
+            "css-styles"
+        ]
+    },
+    "left": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_left.asp",
+        "syntax": "left: auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "letter-spacing": {
+        "href": "https://www.w3schools.com/cssref/pr_text_letter-spacing.asp",
+        "syntax": "letter-spacing: normal|length|initial|inherit;",
+        "property_values": [
+            "normal",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "line-height": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_line-height.asp",
+        "syntax": "line-height: normal|number|length|initial|inherit;",
+        "property_values": [
+            "normal",
+            "number",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "list-style": {
+        "href": "https://www.w3schools.com/cssref/pr_list-style.asp",
+        "syntax": "list-style: list-style-type list-style-position list-style-image|initial|inherit;",
+        "property_values": [
+            "list-style-type",
+            "list-style-position",
+            "list-style-image",
+            "initial",
+            "inherit"
+        ]
+    },
+    "list-style-image": {
+        "href": "https://www.w3schools.com/cssref/pr_list-style-image.asp",
+        "syntax": "list-style-image: none|url|initial|inherit;",
+        "property_values": [
+            "none",
+            "url",
+            "initial",
+            "inherit"
+        ]
+    },
+    "list-style-position": {
+        "href": "https://www.w3schools.com/cssref/pr_list-style-position.asp",
+        "syntax": "list-style-position: inside|outside|initial|inherit;",
+        "property_values": [
+            "inside",
+            "outside",
+            "initial",
+            "inherit"
+        ]
+    },
+    "list-style-type": {
+        "href": "https://www.w3schools.com/cssref/pr_list-style-type.asp",
+        "syntax": "list-style-type: value;",
+        "property_values": [
+            "disc",
+            "armenian",
+            "circle",
+            "cjk-ideographic",
+            "decimal",
+            "decimal-leading-zero",
+            "georgian",
+            "hebrew",
+            "hiragana",
+            "hiragana-iroha",
+            "katakana",
+            "katakana-iroha",
+            "lower-alpha",
+            "lower-greek",
+            "lower-latin",
+            "lower-roman",
+            "none",
+            "square",
+            "upper-alpha",
+            "upper-greek",
+            "upper-latin",
+            "upper-roman",
+            "initial",
+            "inherit"
+        ]
+    },
+    "margin": {
+        "href": "https://www.w3schools.com/cssref/pr_margin.asp",
+        "syntax": "margin: length|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "margin-bottom": {
+        "href": "https://www.w3schools.com/cssref/pr_margin-bottom.asp",
+        "syntax": "margin-bottom: length|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "margin-left": {
+        "href": "https://www.w3schools.com/cssref/pr_margin-left.asp",
+        "syntax": "margin-left: length|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "margin-right": {
+        "href": "https://www.w3schools.com/cssref/pr_margin-right.asp",
+        "syntax": "margin-right: length|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "margin-top": {
+        "href": "https://www.w3schools.com/cssref/pr_margin-top.asp",
+        "syntax": "margin-top: length|auto|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "max-height": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_max-height.asp",
+        "syntax": "max-height: none|length|initial|inherit;",
+        "property_values": [
+            "none",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "max-width": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_max-width.asp",
+        "syntax": "max-width: none|length|initial|inherit;",
+        "property_values": [
+            "none",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "@media": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_mediaquery.asp",
+        "syntax": "@media not|only mediatype and (mediafeature  and|or|not   mediafeature) {\u00a0 CSS-Code;}",
+        "media_types": [
+            "all",
+            "print",
+            "screen",
+            "speech"
+        ],
+        "media_features": [
+            "any-hover",
+            "any-pointer",
+            "aspect-ratio",
+            "color",
+            "color-gamut",
+            "color-index",
+            "grid",
+            "height",
+            "hover",
+            "inverted-colors",
+            "light-level",
+            "max-aspect-ratio",
+            "max-color",
+            "max-color-index",
+            "max-height",
+            "max-monochrome",
+            "max-resolution",
+            "max-width",
+            "min-aspect-ratio",
+            "min-color",
+            "min-color-index",
+            "min-height",
+            "min-monochrome",
+            "min-resolution",
+            "min-width",
+            "monochrome",
+            "orientation",
+            "overflow-block",
+            "overflow-inline",
+            "pointer",
+            "resolution",
+            "scan",
+            "scripting",
+            "update",
+            "width"
+        ]
+    },
+    "min-height": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_min-height.asp",
+        "syntax": "min-height: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "min-width": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_min-width.asp",
+        "syntax": "min-width: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "mix-blend-mode": {
+        "href": "https://www.w3schools.com/cssref/pr_mix-blend-mode.asp",
+        "syntax": "mix-blend-mode: normal|multiply|screen|overlay|darken|lighten|color-dodge|color-burn|difference|exclusion|hue|saturation|color|luminosity;",
+        "property_values": [
+            "normal",
+            "multiply",
+            "screen",
+            "overlay",
+            "darken",
+            "lighten",
+            "color-dodge",
+            "color-burn",
+            "difference",
+            "exclusion",
+            "hue",
+            "saturation",
+            "color",
+            "luminosity"
+        ]
+    },
+    "object-fit": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_object-fit.asp",
+        "syntax": "object-fit: fill|contain|cover|scale-down|none|initial|inherit;",
+        "property_values": [
+            "fill",
+            "contain",
+            "cover",
+            "none",
+            "scale-down",
+            "initial",
+            "inherit"
+        ]
+    },
+    "object-position": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_object-position.asp",
+        "syntax": "object-position: position|initial|inherit;",
+        "property_values": [
+            "position",
+            "initial",
+            "inherit"
+        ]
+    },
+    "opacity": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_opacity.asp",
+        "syntax": "opacity: number|initial|inherit;",
+        "property_values": [
+            "number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "order": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_order.asp",
+        "syntax": "order: number|initial|inherit;",
+        "property_values": [
+            "number",
+            "initial",
+            "inherit"
+        ]
+    },
+    "outline": {
+        "href": "https://www.w3schools.com/cssref/pr_outline.asp",
+        "syntax": "outline: outline-width outline-style outline-color|initial|inherit;",
+        "property_values": [
+            "outline-width",
+            "outline-style",
+            "outline-color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "outline-color": {
+        "href": "https://www.w3schools.com/cssref/pr_outline-color.asp",
+        "syntax": "outline-color: invert|color|initial|inherit;",
+        "property_values": [
+            "invert",
+            "color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "outline-offset": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_outline-offset.asp",
+        "syntax": "outline-offset: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "outline-style": {
+        "href": "https://www.w3schools.com/cssref/pr_outline-style.asp",
+        "syntax": "outline-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;",
+        "property_values": [
+            "none",
+            "hidden",
+            "dotted",
+            "dashed",
+            "solid",
+            "double",
+            "groove",
+            "ridge",
+            "inset",
+            "outset",
+            "initial",
+            "inherit"
+        ]
+    },
+    "outline-width": {
+        "href": "https://www.w3schools.com/cssref/pr_outline-width.asp",
+        "syntax": "outline-width: medium|thin|thick|length|initial|inherit;",
+        "property_values": [
+            "medium",
+            "thin",
+            "thick",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "overflow": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_overflow.asp",
+        "syntax": "overflow: visible|hidden|scroll|auto|initial|inherit;",
+        "property_values": [
+            "visible",
+            "hidden",
+            "scroll",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "overflow-x": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_overflow-x.asp",
+        "syntax": "overflow-x: visible|hidden|scroll|auto|initial|inherit;",
+        "property_values": [
+            "visible",
+            "hidden",
+            "scroll",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "overflow-y": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_overflow-y.asp",
+        "syntax": "overflow-y: visible|hidden|scroll|auto|initial|inherit;",
+        "property_values": [
+            "visible",
+            "hidden",
+            "scroll",
+            "auto",
+            "initial",
+            "inherit"
+        ]
+    },
+    "padding": {
+        "href": "https://www.w3schools.com/cssref/pr_padding.asp",
+        "syntax": "padding: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "padding-bottom": {
+        "href": "https://www.w3schools.com/cssref/pr_padding-bottom.asp",
+        "syntax": "padding-bottom: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "padding-left": {
+        "href": "https://www.w3schools.com/cssref/pr_padding-left.asp",
+        "syntax": "padding-left: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "padding-right": {
+        "href": "https://www.w3schools.com/cssref/pr_padding-right.asp",
+        "syntax": "padding-right: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "padding-top": {
+        "href": "https://www.w3schools.com/cssref/pr_padding-top.asp",
+        "syntax": "padding-top: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "page-break-after": {
+        "href": "https://www.w3schools.com/cssref/pr_print_pageba.asp",
+        "syntax": "page-break-after: auto|always|avoid|left|right|initial|inherit;",
+        "property_values": [
+            "auto",
+            "always",
+            "avoid",
+            "left",
+            "right",
+            "initial",
+            "inherit"
+        ]
+    },
+    "page-break-before": {
+        "href": "https://www.w3schools.com/cssref/pr_print_pagebb.asp",
+        "syntax": "page-break-before: auto|always|avoid|left|right|initial|inherit;",
+        "property_values": [
+            "auto",
+            "always",
+            "avoid",
+            "left",
+            "right",
+            "initial",
+            "inherit"
+        ]
+    },
+    "page-break-inside": {
+        "href": "https://www.w3schools.com/cssref/pr_print_pagebi.asp",
+        "syntax": "page-break-inside: auto|avoid|initial|inherit;",
+        "property_values": [
+            "auto",
+            "avoid",
+            "initial",
+            "inherit"
+        ]
+    },
+    "perspective": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_perspective.asp",
+        "syntax": "perspective: length|none;",
+        "property_values": [
+            "length",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "perspective-origin": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_perspective-origin.asp",
+        "syntax": "perspective-origin: x-axis y-axis|initial|inherit;",
+        "property_values": [
+            "x-axis",
+            "y-axis",
+            "initial",
+            "inherit"
+        ]
+    },
+    "pointer-events": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_pointer-events.asp",
+        "syntax": "pointer-events: auto|none;",
+        "property_values": [
+            "auto",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "position": {
+        "href": "https://www.w3schools.com/cssref/pr_class_position.asp",
+        "syntax": "position: static|absolute|fixed|relative|sticky|initial|inherit;",
+        "property_values": [
+            "static",
+            "absolute",
+            "fixed",
+            "relative",
+            "sticky",
+            "initial",
+            "inherit"
+        ]
+    },
+    "quotes": {
+        "href": "https://www.w3schools.com/cssref/pr_gen_quotes.asp",
+        "syntax": "quotes: none|string|initial|inherit;",
+        "property_values": [
+            "none",
+            "string string string string",
+            "initial",
+            "inherit"
+        ]
+    },
+    "resize": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_resize.asp",
+        "syntax": "resize: none|both|horizontal|vertical|initial|inherit;",
+        "property_values": [
+            "none",
+            "both",
+            "horizontal",
+            "vertical",
+            "initial",
+            "inherit"
+        ]
+    },
+    "right": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_right.asp",
+        "syntax": "right:  auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "scroll-behavior": {
+        "href": "https://www.w3schools.com/cssref/pr_scroll-behavior.asp",
+        "syntax": "scroll-behavior:  auto|smooth|initial|inherit;",
+        "property_values": [
+            "auto",
+            "smooth",
+            "initial",
+            "inherit"
+        ]
+    },
+    "tab-size": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_tab-size.asp",
+        "syntax": "tab-size: number|length|initial|inherit;",
+        "property_values": [
+            "number",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "table-layout": {
+        "href": "https://www.w3schools.com/cssref/pr_tab_table-layout.asp",
+        "syntax": "table-layout: auto|fixed|initial|inherit;",
+        "property_values": [
+            "auto",
+            "fixed",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-align": {
+        "href": "https://www.w3schools.com/cssref/pr_text_text-align.asp",
+        "syntax": "text-align: left|right|center|justify|initial|inherit;",
+        "property_values": [
+            "left",
+            "right",
+            "center",
+            "justify",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-align-last": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-align-last.asp",
+        "syntax": "text-align-last: auto|left|right|center|justify|start|end|initial|inherit;",
+        "property_values": [
+            "auto",
+            "left",
+            "right",
+            "center",
+            "justify",
+            "start",
+            "end",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-decoration": {
+        "href": "https://www.w3schools.com/cssref/pr_text_text-decoration.asp",
+        "syntax": "text-decoration: text-decoration-line text-decoration-color  text-decoration-style|initial|inherit;",
+        "property_values": [
+            "text-decoration-line",
+            "text-decoration-color",
+            "text-decoration-style",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-decoration-color": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-decoration-color.asp",
+        "syntax": "text-decoration-color: color|initial|inherit;",
+        "property_values": [
+            "color",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-decoration-line": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-decoration-line.asp",
+        "syntax": "text-decoration-line: none|underline|overline|line-through|initial|inherit;",
+        "property_values": [
+            "none",
+            "underline",
+            "overline",
+            "line-through",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-decoration-style": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-decoration-style.asp",
+        "syntax": "text-decoration-style: solid|double|dotted|dashed|wavy|initial|inherit;",
+        "property_values": [
+            "solid",
+            "double",
+            "dotted",
+            "dashed",
+            "wavy",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-indent": {
+        "href": "https://www.w3schools.com/cssref/pr_text_text-indent.asp",
+        "syntax": "text-indent: length|initial|inherit;",
+        "property_values": [
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-justify": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-justify.asp",
+        "syntax": "text-justify: auto|inter-word|inter-character|none|initial|inherit;",
+        "property_values": [
+            "auto",
+            "inter-word",
+            "inter-character",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-overflow": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-overflow.asp",
+        "syntax": "text-overflow: clip|ellipsis|string|initial|inherit;",
+        "property_values": [
+            "clip",
+            "ellipsis",
+            "string",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-shadow": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_text-shadow.asp",
+        "syntax": "text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;",
+        "property_values": [
+            "h-shadow",
+            "v-shadow",
+            "blur-radius",
+            "color",
+            "none",
+            "initial",
+            "inherit"
+        ]
+    },
+    "text-transform": {
+        "href": "https://www.w3schools.com/cssref/pr_text_text-transform.asp",
+        "syntax": "text-transform: none|capitalize|uppercase|lowercase|initial|inherit;",
+        "property_values": [
+            "none",
+            "capitalize",
+            "uppercase",
+            "lowercase",
+            "initial",
+            "inherit"
+        ]
+    },
+    "top": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_top.asp",
+        "syntax": "top: auto|length|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transform": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transform.asp",
+        "syntax": "transform: none|transform-functions|initial|inherit;",
+        "property_values": [
+            "none",
+            "matrix(n,n,n,n,n,n)",
+            "matrix3d(n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)",
+            "translate(x,y)",
+            "translate3d(x,y,z)",
+            "translateX(x)",
+            "translateY(y)",
+            "translateZ(z)",
+            "scale(x,y)",
+            "scale3d(x,y,z)",
+            "scaleX(x)",
+            "scaleY(y)",
+            "scaleZ(z)",
+            "rotate(angle)",
+            "rotate3d(x,y,z,angle)",
+            "rotateX(angle)",
+            "rotateY(angle)",
+            "rotateZ(angle)",
+            "skew(x-angle,y-angle)",
+            "skewX(angle)",
+            "skewY(angle)",
+            "perspective(n)",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transform-origin": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transform-origin.asp",
+        "syntax": "transform-origin: x-axis y-axis z-axis|initial|inherit;",
+        "property_values": [
+            "x-axis",
+            "y-axis",
+            "z-axis",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transform-style": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transform-style.asp",
+        "syntax": "transform-style: flat|preserve-3d|initial|inherit;",
+        "property_values": [
+            "flat",
+            "preserve-3d",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transition": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transition.asp",
+        "syntax": "transition: property duration timing-function delay|initial|inherit;",
+        "property_values": [
+            "transition-property",
+            "transition-duration",
+            "transition-timing-function",
+            "transition-delay",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transition-delay": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transition-delay.asp",
+        "syntax": "transition-delay: time|initial|inherit;",
+        "property_values": [
+            "time",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transition-duration": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transition-duration.asp",
+        "syntax": "transition-duration: time|initial|inherit;",
+        "property_values": [
+            "time",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transition-property": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transition-property.asp",
+        "syntax": "transition-property: none|all|property|initial|inherit;",
+        "property_values": [
+            "none",
+            "all",
+            "property",
+            "initial",
+            "inherit"
+        ]
+    },
+    "transition-timing-function": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp",
+        "syntax": "transition-timing-function: linear|ease|ease-in|ease-out|ease-in-out|step-start|step-end|steps(int,start|end)|cubic-bezier(n,n,n,n)|initial|inherit;",
+        "property_values": [
+            "ease",
+            "linear",
+            "ease-in",
+            "ease-out",
+            "ease-in-out",
+            "step-start",
+            "step-end",
+            "steps(int,start|end)",
+            "cubic-bezier(n,n,n,n)",
+            "initial",
+            "inherit"
+        ]
+    },
+    "unicode-bidi": {
+        "href": "https://www.w3schools.com/cssref/pr_text_unicode-bidi.asp",
+        "syntax": "unicode-bidi: normal|embed|bidi-override|initial|inherit;",
+        "property_values": [
+            "normal",
+            "embed",
+            "bidi-override",
+            "isolate",
+            "isolate-override",
+            "plaintext",
+            "initial",
+            "inherit"
+        ]
+    },
+    "user-select": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_user-select.asp",
+        "syntax": "user-select: auto|none|text|all;",
+        "property_values": [
+            "auto",
+            "none",
+            "text",
+            "all"
+        ]
+    },
+    "vertical-align": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_vertical-align.asp",
+        "syntax": "vertical-align: baseline|length|sub|super|top|text-top|middle|bottom|text-bottom|initial|inherit;",
+        "property_values": [
+            "baseline",
+            "length",
+            "percent",
+            "sub",
+            "super",
+            "top",
+            "text-top",
+            "middle",
+            "bottom",
+            "text-bottom",
+            "initial",
+            "inherit"
+        ]
+    },
+    "visibility": {
+        "href": "https://www.w3schools.com/cssref/pr_class_visibility.asp",
+        "syntax": "visibility: visible|hidden|collapse|initial|inherit;",
+        "property_values": [
+            "visible",
+            "hidden",
+            "collapse",
+            "initial",
+            "inherit"
+        ]
+    },
+    "white-space": {
+        "href": "https://www.w3schools.com/cssref/pr_text_white-space.asp",
+        "syntax": "white-space: normal|nowrap|pre|pre-line|pre-wrap|initial|inherit;",
+        "property_values": [
+            "normal",
+            "nowrap",
+            "pre",
+            "pre-line",
+            "pre-wrap",
+            "initial",
+            "inherit"
+        ]
+    },
+    "width": {
+        "href": "https://www.w3schools.com/cssref/pr_dim_width.asp",
+        "syntax": "width: auto|value|initial|inherit;",
+        "property_values": [
+            "auto",
+            "length",
+            "percent",
+            "initial",
+            "inherit"
+        ]
+    },
+    "word-break": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_word-break.asp",
+        "syntax": "word-break: normal|break-all|keep-all|break-word|initial|inherit;",
+        "property_values": [
+            "normal",
+            "break-all",
+            "keep-all",
+            "break-word",
+            "initial",
+            "inherit"
+        ]
+    },
+    "word-spacing": {
+        "href": "https://www.w3schools.com/cssref/pr_text_word-spacing.asp",
+        "syntax": "word-spacing: normal|length|initial|inherit;",
+        "property_values": [
+            "normal",
+            "length",
+            "initial",
+            "inherit"
+        ]
+    },
+    "word-wrap": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_word-wrap.asp",
+        "syntax": "word-wrap: normal|break-word|initial|inherit;",
+        "property_values": [
+            "normal",
+            "break-word",
+            "initial",
+            "inherit"
+        ]
+    },
+    "writing-mode": {
+        "href": "https://www.w3schools.com/cssref/css3_pr_writing-mode.asp",
+        "syntax": "writing-mode: horizontal-tb|vertical-rl|vertical-lr;",
+        "property_values": [
+            "horizontal-tb",
+            "vertical-rl",
+            "vertical-lr"
+        ]
+    },
+    "z-index": {
+        "href": "https://www.w3schools.com/cssref/pr_pos_z-index.asp",
+        "syntax": "z-index: auto|number|initial|inherit;",
+        "property_values": [
+            "auto",
+            "number",
+            "initial",
+            "inherit"
+        ]
+    }
+}

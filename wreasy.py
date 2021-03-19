@@ -22,7 +22,7 @@ PROPCONFIG = {}
 class Template:
     default = ".{mq}{cls}-{val}{slc}, .{mq}{cls}-{val}-ch{slc} > *, .{mq}{cls}-{val}-rs{slc} * {prop}"
     child = ".{mq}{cls}-ch > *:first-child:nth-last-child({n}), .{mq}{cls}-ch > *:first-child:nth-last-child({n}) ~ * {prop}"
-    calc =  "calc(100%%/%s)"
+    calc =  "calc(100%% / %s)"
     prop = "{ %s: %s; }"
     doubleprop = "{ %s: %s; %s: %s; }"
 
@@ -301,30 +301,26 @@ def getallcss():
     if REVERSE:
         print("/* Media Queries base */")
         getcss()
-        for k in reversed(CONFIG["media-queries"]):
-            mq = k
-            value = CONFIG["media-queries"][k]
-            print("/* Media Queries %s */" % mq)
-            print("@media (max-width: %spx) {" % value)
-            getcss(mq+"-")
-            #for w in Config.widget: print(w % ".%s-" % mq[0])
-            print("}")
-        for k in reversed(CONFIG["media-queries"]):
-            mq = k
-            value = CONFIG["media-queries"][k]
-            print("/* Reverse Media Queries %s */" % mq)
-            print("@media (min-width: %spx) {" % value)
-            getcss("r"+mq+"-")
-            #for w in Config.widget: print(w % ".%s-" % mq[0])
-            print("}")
-    else:
-        print("/* Media Queries base */")
-        getcss()
+        for w in CONFIG["widgets"]: 
+            print(w % {"mq": "."})
         for mq, value in CONFIG["media-queries"].items():
             print("/* Media Queries %s */" % mq)
             print("@media (max-width: %spx) {" % value)
             getcss(mq+"-")
-            #for w in Config.widget: print(w % ".%s-" % mq[0])
+            for w in CONFIG["widgets"]: 
+                print(w % {"mq": ".%s-" % mq})
+            print("}")
+    else:
+        print("/* Media Queries base */")
+        getcss()
+        for w in CONFIG["widgets"]: 
+            print(w % {"mq": "."})
+        for mq, value in CONFIG["media-queries"].items():
+            print("/* Media Queries %s */" % mq)
+            print("@media (min-width: %spx) {" % value)
+            getcss(mq+"-")
+            for w in CONFIG["widgets"]: 
+                print(w % {"mq": ".%s-" % mq})
             print("}")
     
 

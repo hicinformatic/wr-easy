@@ -1610,8 +1610,9 @@
     },
     "line-height": {
         "href": "https://www.w3schools.com/cssref/pr_dim_line-height.asp",
-        "syntax": "line-height: normal|number|length|initial|inherit;",
+        "syntax": "line-height: auto|normal|number|length|initial|inherit;",
         "property_values": [
+            "auto",
             "normal",
             "number",
             "length",

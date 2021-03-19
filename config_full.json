@@ -8,6 +8,7 @@
         "family-name",
         "generic-family",
         "feature-value",
+        "position",
         "steps(int,start|end)",
         "cubic-bezier(n,n,n,n)",
         "property",
@@ -53,9 +54,9 @@
     ],
     "percent": "pr|%",
     "media-queries": {
-        "sm": 576,
-        "md": 768,
-        "lg": 992
+        "lg": 1200,
+        "md": 992,
+        "sm": 768
     },
     "leftright": {
         "padding": ["padding-left", "padding-right"],
@@ -67,45 +68,10 @@
         "margin": ["margin-top", "margin-bottom"],
         "border-width": ["border-top-width", "border-bottom-width"]
     },
-    "child": ["width", "height", "line-height"],
+    "child": ["width", "height"],
     "childlimit": 20,
     "number": 20,
     "length": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vw": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "line-height": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vh": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "height": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vh": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "max-height": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vh": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "min-height": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vh": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "width": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vw": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "max-width": {
-        "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
-        "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
-        "vw": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
-    },
-    "min-width": {
         "px": [[0, 10, 1], [15, 50, 5], [60, 100, 10], [150, 500, 50]],
         "pr|%": [[0, 10, 1], [15, 50, 5], [60, 100, 10]],
         "vw": [[0, 10, 1], [15, 50, 5], [60, 100, 10]]
@@ -123,37 +89,35 @@
         "vw": [[0, 10, 1], [12, 20, 2], [25, 40, 5]]
     },
     "widgets":[
-        "input[type=\"checkbox\"]%(mq)sdsc:not(:checked) ~ * { display: none; }",
-        "input[type=\"radio\"]%(mq)sdsc:not(:checked) ~ * { display: none; }",
-        "%(mq)ssk > *:first-of-type:nth-last-child(1), .sk>*:first-of-type:nth-last-child(1) ~ * { height: 100%%;           }",
-        "%(mq)ssk > *:first-of-type:nth-last-child(3), .sk>*:first-of-type:nth-last-child(3) ~ * { height: calc(100%% / 3); }",
-        "%(mq)ssk > *:first-of-type:nth-last-child(5), .sk>*:first-of-type:nth-last-child(5) ~ * { height: 20%%;            }",
-        "%(mq)ssk > *:first-of-type:nth-last-child(7), .sk>*:first-of-type:nth-last-child(7) ~ * { height: calc(100%% / 7); }",
-        "%(mq)ssk > *:first-of-type:nth-last-child(9), .sk>*:first-of-type:nth-last-child(9) ~ * { height: calc(100%% / 9); }",
-        "%(mq)stabs > .tab-ctn > * { display: none; }",
-        "%(mq)stabs > input[type=radio].tab { display: none; }",
-        "%(mq)stabs > input:nth-child(1):checked  ~ tab-ctn > *:nth-child(1)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(2):checked  ~ tab-ctn > *:nth-child(2)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(3):checked  ~ tab-ctn > *:nth-child(3)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(4):checked  ~ tab-ctn > *:nth-child(4)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(5):checked  ~ tab-ctn > *:nth-child(5)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(6):checked  ~ tab-ctn > *:nth-child(6)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(7):checked  ~ tab-ctn > *:nth-child(7)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(8):checked  ~ tab-ctn > *:nth-child(8)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(9):checked  ~ tab-ctn > *:nth-child(9)  { display: initial; }",
-        "%(mq)stabs > input:nth-child(10):checked ~ tab-ctn > *:nth-child(10) { display: initial; }",
-        "%(mq)stunright:hover > *:last-child { position: absolute; display: block; }"
+        "input[type=\"checkbox\"]%sdsc:not(:checked) ~ * { display: none; }",
+        "input[type=\"radio\"]%sdsc:not(:checked) ~ * { display: none; }",
+        "%ssk > * { margin-left: 79%; display: block; width: 20%; text-align: right;",
+        "%ssk > *:first-of-type:nth-last-child(1), .wr.sk>*:first-of-type:nth-last-child(1) ~ * { height: 100%;           }",
+        "%ssk > *:first-of-type:nth-last-child(3), .wr.sk>*:first-of-type:nth-last-child(3) ~ * { height: calc(100% / 3); }",
+        "%ssk > *:first-of-type:nth-last-child(5), .wr.sk>*:first-of-type:nth-last-child(5) ~ * { height: 20%;            }",
+        "%ssk > *:first-of-type:nth-last-child(7), .wr.sk>*:first-of-type:nth-last-child(7) ~ * { height: calc(100% / 7); }",
+        "%ssk > *:first-of-type:nth-last-child(9), .wr.sk>*:first-of-type:nth-last-child(9) ~ * { height: calc(100% / 9); }",
+        "%stabs > .wr.tab-ctn > *                                             { display: none;    }",
+        "%stabs > input[type=radio].wr.tab                                    { display: none;    }",
+        "%stabs > input:nth-child(1):checked  ~ .wr.tab-ctn > *:nth-child(1)  { display: initial; }",
+        "%stabs > input:nth-child(2):checked  ~ .wr.tab-ctn > *:nth-child(2)  { display: initial; }",
+        "%stabs > input:nth-child(3):checked  ~ .wr.tab-ctn > *:nth-child(3)  { display: initial; }",
+        "%stabs > input:nth-child(4):checked  ~ .wr.tab-ctn > *:nth-child(4)  { display: initial; }",
+        "%stabs > input:nth-child(5):checked  ~ .wr.tab-ctn > *:nth-child(5)  { display: initial; }",
+        "%stabs > input:nth-child(6):checked  ~ .wr.tab-ctn > *:nth-child(6)  { display: initial; }",
+        "%stabs > input:nth-child(7):checked  ~ .wr.tab-ctn > *:nth-child(7)  { display: initial; }",
+        "%stabs > input:nth-child(8):checked  ~ .wr.tab-ctn > *:nth-child(8)  { display: initial; }",
+        "%stabs > input:nth-child(9):checked  ~ .wr.tab-ctn > *:nth-child(9)  { display: initial; }",
+        "%stabs > input:nth-child(10):checked ~ .wr.tab-ctn > *:nth-child(10) { display: initial; }",
+        "%stunright:hover > *:last-child { position: absolute; display: block; }"
     ],
     "used": [
         "width",
+        "height",
+        "line-height",
         "max-width",
         "min-width",
-        "height",
-        "max-height",
-        "min-height",
-        "line-height",
         "font-size",
-        "flex",
         "float",
         "clear",
         "margin",
@@ -168,8 +132,6 @@
         "padding-top",
         "text-align",
         "text-decoration",
-        "justify-content",
-        "align-items",
         "text-overflow",
         "overflow",
         "overflow-x",
